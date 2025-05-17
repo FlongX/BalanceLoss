@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+# 忽略所有 __pycache__ 文件夹
+__pycache__/
+**/__pycache__/
+*.py[cod]
 
 # Distribution / packaging
 .Python
