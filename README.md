@@ -1,2 +1,2 @@
 # BalanceLoss
-The code of BalanceLoss, presented in our paper: A Unified Loss for Handling Inter-class and Intra-class Imbalance in Medical Image Segmentation
+The code of BalanceLoss, presented in our paper: [A Unified Loss for Handling Inter-class and Intra-class Imbalance in Medical Image Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/32956)
