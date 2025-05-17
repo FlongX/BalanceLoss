@@ -388,9 +388,9 @@ class IntraCBLoss(nn.Module):
             sum_b = 0
             sum_f = 0
             for i in range(len(gt_f_num)):
-                if pc_b[i, int(gt_f_num[i] - 1)] <= (1 - q):
+                if pc_b[i, int(gt_f_num[i] - 1)] <= (1 - t):
                     sum_b += 1
-                if pc_f[i, int(gt_f_num[i] - 1)] <= (1 - q):
+                if pc_f[i, int(gt_f_num[i] - 1)] <= (1 - t):
                     sum_f += 1
             print(sum_b, sum_f)
             if sum_b >= len(gt_f_num) / 2 and sum_f >= len(gt_f_num) / 2 and len(gt_f_num) == bs:
