@@ -5,7 +5,7 @@ The code of BalanceLoss, presented in our paper: [A Unified Loss for Handling In
 2. Train/Test
 3. The appendix
 4. Citations
-   $$
+$$
    @inproceedings{xu2025BalanceLoss,
   title={A Unified Loss for Handling Inter-Class and Intra-Class Imbalance in Medical Image Segmentation},
   author={Xu, Feilong and Yang, Feiyang and Li, Xiongfei and Zhang, Xiaoli},
@@ -15,4 +15,4 @@ The code of BalanceLoss, presented in our paper: [A Unified Loss for Handling In
   pages={8842--8850},
   year={2025}
 }
-   $$
+$$
