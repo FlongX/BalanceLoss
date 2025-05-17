@@ -17,6 +17,13 @@ AAAI 2025
 ### 3. Appendix
    The Appendix.pdf provides detailed theoretical derivations.
 
+## 📬 Contact
+If you have any questions, feel free to contact me via email:
+
+xufl2301@gmail.com 
+
+xufl23@mails.jlu.edu.cn
+
 ## 📚 Citation
 
 If you use this code, please cite our paper:
@@ -31,3 +38,5 @@ If you use this code, please cite our paper:
   pages={8842--8850},
   year={2025}
 }
+
+
