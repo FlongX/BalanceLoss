@@ -10,12 +10,12 @@ AAAI 2025
 
 ## 🚀 Usage
 
-1. **Environment**
-2. **Train/Test**
-3. **Appendix**
-4. **Citations**
-
----
+### 1. Environment
+   Please prepare an environment with Python 3.8, then use the command "pip install -r requirements.txt" for the dependencies.
+### 2. Train
+   To ensure the stability of the two-stage training process, avoid using a tiny batch size. We recommend setting the batch size to 16 or 24.
+### 3. Appendix
+   The Appendix.pdf provides detailed theoretical derivations.
 
 ## 📚 Citation
 
